@@ -1,0 +1,8 @@
+version: "3"
+services:
+  api-test:
+    build:
+      context: tests
+      dockerfile: ./Dockerfile
+    env_file:
+      - tests/.env
