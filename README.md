@@ -12,10 +12,11 @@
     
 
 ## Without docker? 
-Prerequisite
+### Prerequisite
+```
 - Python3
 - python virtual environment setup [https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/]
-
+```
     1. git clone/download as zip
     2. go to the directory
     3. cd into tests folder
