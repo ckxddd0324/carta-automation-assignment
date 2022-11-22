@@ -1,6 +1,6 @@
 # carta-automation-assignment
 
-###  Requirement⚠️
+### ⚠️ Requirement
 docker is installed 
 
 ## How to generate the report (Report.html)
