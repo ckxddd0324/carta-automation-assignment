@@ -10,10 +10,12 @@
     3. run "./run_test.sh"
     4. Vola! Now you should see a new file Report.html
     
+
+## Without docker? 
 Prerequisite
 - Python3
 - python virtual environment setup [https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/]
-## Without docker? 
+
     1. git clone/download as zip
     2. go to the directory
     3. cd into tests folder
