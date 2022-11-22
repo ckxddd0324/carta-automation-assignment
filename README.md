@@ -1,7 +1,7 @@
 # carta-automation-assignment
 
 ### ⚠️ Requirement
-docker is installed 
+```docker is installed```
 
 ## How to generate the report (Report.html)
     1. git clone/download as zip
